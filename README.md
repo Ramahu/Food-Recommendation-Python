@@ -26,6 +26,22 @@ Suggests suitable foods based on targeted nutritional values.
 Provides meal suggestions for breakfast, lunch, and dinner.
 Ensures meals align with user-specific dietary needs.
 
+## Technology
+
+Knowledge-Based System (KBS) Role :
+
+
+BMI & Nutritional Calculation: The system calculates Body Mass Index (BMI) and daily nutritional needs based on user inputs.
+Rule-Based Decision Making: Applies predefined medical and dietary rules to determine appropriate nutritional intake and meal recommendations.
+
+
+Machine Learning (ML) Role :
+
+Food Recommendation with Nearest Neighbors Algorithm:
+Uses KNN (K-Nearest Neighbors) to find foods from the dataset that closely match the user's required nutritional values.
+Suggests meals based on similarity to the user’s dietary profile, ensuring balanced and personalized food choices.
+
+
 ## Dataset
 
 The project utilizes the Food.com Recipes and Reviews dataset from Kaggle, which includes a variety of food recipes and user reviews.
