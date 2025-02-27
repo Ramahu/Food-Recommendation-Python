@@ -1,11 +1,15 @@
 # Food-Recommendation-Python
 
 Overview
+
+
 The User Diet Analysis Application is an intelligent system designed to assist users in achieving their dietary goals through personalized meal recommendations. By leveraging Knowledge-Based Systems (KBS) and Machine Learning (ML), the system tailors dietary plans based on user inputs such as age, weight, height, medical conditions, and fitness objectives.
 
 The system ensures that recommendations align with recognized medical standards, making it suitable for users with specific dietary needs, including allergies, pre-existing health conditions, and personal dietary preferences (vegetarian/non-vegetarian).
 
 Features
+
+
 Health Questionnaire: Users complete a form to provide essential personal details, including:
 
 Age, gender, height, weight
@@ -13,6 +17,8 @@ Allergies and health conditions
 Activity level (athletic or sedentary)
 Dietary goal (weight gain, weight loss, maintenance, muscle building)
 Diet preference (vegetarian or non-vegetarian)
+
+
 Nutritional Analysis: Generates a daily summary of essential nutrients such as:
 
 Calories, protein, carbohydrates, fiber, sugar
@@ -22,7 +28,9 @@ Personalized Meal Recommendations:
 Suggests suitable foods based on targeted nutritional values.
 Provides meal suggestions for breakfast, lunch, and dinner.
 Ensures meals align with user-specific dietary needs.
+
 Dataset
+
 The project utilizes the Food.com Recipes and Reviews dataset from Kaggle, which includes a variety of food recipes and user reviews.
 
 📌 Dataset Link: [ Food.com Recipes and Reviews](https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews?select=recipes.csv)
