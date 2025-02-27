@@ -1,18 +1,31 @@
 # Food-Recommendation-Python
-Food Recommendation using Python , KBS and ML
 
-The User Diet Analysis Application is an intelligent system designed to assist users in determining a suitable dietary plan based on a specific health goal they define, such as weight gain, weight loss, maintenance, or muscle building. This is achieved by suggesting a set of meals tailored to the inputs provided by the user, including weight, age, height, medical conditions, and the desired goal. The proposed plan adheres to recognized medical standards, ensuring its appropriateness for the user’s needs.
-The system allow users to complete a health questionnaire to gather personal data essential for determining individualized dietary needs.
-Questionnaire Fields : Age , Gender , Height , Weight , Allergies ,
-Activity Level ( Option to specify if the user is athletic or sedentary) ,
-Goal ( Weight gain , Weight loss , Weight maintenance , Muscle building ) ,
-Health Conditions ( select options for pre-existing medical conditions ) ,
-Diet Preference ( Whether the user is vegetarian or non-vegetarian ) .
-Provides a daily summary of essential nutritional values such as calories, protein, sodium ,carb , sugar , fiber , cholesterol , fat and saturatedfat based on the user's needs.
-Suggests suitable foods based on the targeted nutritional values for each meal of the day (breakfast, lunch, dinner).
+Overview
+The User Diet Analysis Application is an intelligent system designed to assist users in achieving their dietary goals through personalized meal recommendations. By leveraging Knowledge-Based Systems (KBS) and Machine Learning (ML), the system tailors dietary plans based on user inputs such as age, weight, height, medical conditions, and fitness objectives.
 
+The system ensures that recommendations align with recognized medical standards, making it suitable for users with specific dietary needs, including allergies, pre-existing health conditions, and personal dietary preferences (vegetarian/non-vegetarian).
 
-DataSet : https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews?select=recipes.csv
+Features
+Health Questionnaire: Users complete a form to provide essential personal details, including:
+
+Age, gender, height, weight
+Allergies and health conditions
+Activity level (athletic or sedentary)
+Dietary goal (weight gain, weight loss, maintenance, muscle building)
+Diet preference (vegetarian or non-vegetarian)
+Nutritional Analysis: Generates a daily summary of essential nutrients such as:
+
+Calories, protein, carbohydrates, fiber, sugar
+Fats (total, saturated), sodium, cholesterol
+Personalized Meal Recommendations:
+
+Suggests suitable foods based on targeted nutritional values.
+Provides meal suggestions for breakfast, lunch, and dinner.
+Ensures meals align with user-specific dietary needs.
+Dataset
+The project utilizes the Food.com Recipes and Reviews dataset from Kaggle, which includes a variety of food recipes and user reviews.
+
+📌 Dataset Link: [ Food.com Recipes and Reviews](https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews?select=recipes.csv)
 
 You can see The ***UI repo here : https://github.com/Ramahu/AI-food-Recommendation/tree/master
 
