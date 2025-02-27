@@ -1,4 +1,4 @@
-# Food-Recommendation-Python
+#Food Recommendation System using KBS and ML
 
 The User Diet Analysis Application is an intelligent system designed to assist users in achieving their dietary goals through personalized meal recommendations. By leveraging Knowledge-Based Systems (KBS) and Machine Learning (ML), the system tailors dietary plans based on user inputs such as age, weight, height, medical conditions, and fitness objectives.
 
